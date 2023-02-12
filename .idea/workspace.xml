@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0056a3e2-c82f-4cb5-a079-f6d5047f2b8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/APITestingFramework/listeners/ExtentListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/APITestingFramework/listeners/ExtentListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/APITestingFramework/rough/TestIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/APITestingFramework/rough/TestIP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/APITestingFramework/rough/TestMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/APITestingFramework/rough/TestMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/w2a/APITestingFramework/utilities/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/w2a/APITestingFramework/utilities/TestConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>

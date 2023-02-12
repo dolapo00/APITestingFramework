@@ -1,2 +1,16 @@
-package com.w2a.APITestingFramework.rough;public class TestIP {
+package com.w2a.APITestingFramework.rough;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+public class TestIP {
+
+    public static void main(String[] args) {
+        try {
+            System.out.println("http://" + InetAddress.getLocalHost().getHostAddress() + ":8080/job/APITestingFramework/Extent_20Reports/");
+        } catch (UnknownHostException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
 }

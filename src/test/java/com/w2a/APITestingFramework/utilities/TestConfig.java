@@ -4,9 +4,9 @@ public class TestConfig{
 
 	
 	public static String server="smtp.gmail.com";
-	public static String from = "corporate@way2automation.com";
-	public static String password = "Selenium@123";
-	public static String[] to ={"seleniumcoaching@gmail.com","trainer@way2automation.com"};
+	public static String from = "##@gmail.com";
+	public static String password = "**";
+	public static String[] to ={"##@hotmail.com","##@outlook.com"};
 	public static String subject = "Extent Project Report";
 	
 	public static String messageBody ="TestMessage";
@@ -27,13 +27,6 @@ public class TestConfig{
 	public static String mysqluserName = "root";
 	public static String mysqlpassword = "selenium";
 	public static String mysqlurl = "jdbc:mysql://localhost:3306/acs";
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 }
